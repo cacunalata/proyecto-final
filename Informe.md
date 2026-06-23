@@ -13,3 +13,6 @@ Intenté corregir ciertas imagenes que me dió ya que no modificó mucho de mi p
 
 Si repitieras el proceso, ¿qué cambiarías de tu manera de dar prompts?
 Considero que cambiaría en el hecho de dar mejor las instrucciones y resaltar las restricciones que debe tener en el proyecto, de esta forma pensaría que la IA mejoraría mi proyecto pero sin tocar los aspectos específicos que le menciono aunque de igual forma no siempre funciona de esta manera como en este caso que a pesar de las restricciones, la IA lo tomó muy literal y no generó tantos cambios, entonces si es crucial ser muy puntual y específica para que el resultado sea más prolijo con lo que esperas finalmente.
+
+Calificación:
+⭐⭐⭐ estrellas 
